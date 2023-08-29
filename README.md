@@ -32,7 +32,7 @@ This page will cotnain various links, references and sources where I learned the
 Clone the project
 
 ```bash
-  git clone <copy the project link>
+  git clone https://github.com/snknitin/exploring-pandas-and-numpy.git
 ```
 
 Go to the project directory
