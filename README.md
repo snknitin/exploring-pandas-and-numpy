@@ -37,7 +37,9 @@ Clone the project
 
 Go to the project directory
 
+## Datasets
 
+1) [Pokemon](https://www.kaggle.com/datasets/rounakbanik/pokemon)
 
 ## FAQ
 
